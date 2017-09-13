@@ -1,0 +1,5 @@
+c:\VS2012\LogTest\LogTest\LogTest\bin\Debug\LogTest.dll
+c:\VS2012\LogTest\LogTest\LogTest\bin\Debug\LogTest.pdb
+c:\VS2012\LogTest\LogTest\LogTest\obj\Debug\LogTest.csprojResolveAssemblyReference.cache
+c:\VS2012\LogTest\LogTest\LogTest\obj\Debug\LogTest.dll
+c:\VS2012\LogTest\LogTest\LogTest\obj\Debug\LogTest.pdb

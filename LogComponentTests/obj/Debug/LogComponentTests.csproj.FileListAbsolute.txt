@@ -1,0 +1,9 @@
+C:\Users\Acer ES\Desktop\1\LogComponentTests\bin\Debug\LogComponentTests.dll
+C:\Users\Acer ES\Desktop\1\LogComponentTests\bin\Debug\LogComponentTests.pdb
+C:\Users\Acer ES\Desktop\1\LogComponentTests\bin\Debug\LogTest.dll
+C:\Users\Acer ES\Desktop\1\LogComponentTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Acer ES\Desktop\1\LogComponentTests\bin\Debug\LogTest.pdb
+C:\Users\Acer ES\Desktop\1\LogComponentTests\obj\Debug\LogComponentTests.csprojResolveAssemblyReference.cache
+C:\Users\Acer ES\Desktop\1\LogComponentTests\obj\Debug\LogComponentTests.csproj.CoreCompileInputs.cache
+C:\Users\Acer ES\Desktop\1\LogComponentTests\obj\Debug\LogComponentTests.dll
+C:\Users\Acer ES\Desktop\1\LogComponentTests\obj\Debug\LogComponentTests.pdb

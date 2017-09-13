@@ -1,0 +1,10 @@
+C:\VS2012\LogTest\LogTest\LogTest\bin\Debug\LogTest.dll
+C:\VS2012\LogTest\LogTest\LogTest\bin\Debug\LogTest.pdb
+C:\VS2012\LogTest\LogTest\LogTest\obj\Debug\LogTest.dll
+C:\VS2012\LogTest\LogTest\LogTest\obj\Debug\LogTest.pdb
+C:\VS2012\LogTest\LogTest\LogTest\obj\Debug\LogComponent.csprojResolveAssemblyReference.cache
+C:\Users\Acer ES\Desktop\1\LogTest\bin\Debug\LogTest.dll
+C:\Users\Acer ES\Desktop\1\LogTest\bin\Debug\LogTest.pdb
+C:\Users\Acer ES\Desktop\1\LogTest\obj\Debug\LogComponent.csproj.CoreCompileInputs.cache
+C:\Users\Acer ES\Desktop\1\LogTest\obj\Debug\LogTest.dll
+C:\Users\Acer ES\Desktop\1\LogTest\obj\Debug\LogTest.pdb

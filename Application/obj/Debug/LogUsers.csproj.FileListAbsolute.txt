@@ -1,0 +1,8 @@
+c:\VS2012\LogTest\LogTest\LogUsers\bin\Debug\LogUsers.exe.config
+c:\VS2012\LogTest\LogTest\LogUsers\bin\Debug\LogUsers.exe
+c:\VS2012\LogTest\LogTest\LogUsers\bin\Debug\LogUsers.pdb
+c:\VS2012\LogTest\LogTest\LogUsers\bin\Debug\LogTest.dll
+c:\VS2012\LogTest\LogTest\LogUsers\bin\Debug\LogTest.pdb
+c:\VS2012\LogTest\LogTest\LogUsers\obj\Debug\LogUsers.csprojResolveAssemblyReference.cache
+c:\VS2012\LogTest\LogTest\LogUsers\obj\Debug\LogUsers.exe
+c:\VS2012\LogTest\LogTest\LogUsers\obj\Debug\LogUsers.pdb

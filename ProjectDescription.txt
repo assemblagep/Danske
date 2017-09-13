@@ -1,0 +1,12 @@
+Fixed
+1. Added concurrent queue instead of list as a log buffer.
+2. Rearranged code: NewLogFile() for new log file creation,CheckDate() for dates comparing, PrintLogLine() for log printing etc.
+3. Created new constructor with currentTime parameter for testing.
+
+ 
+ 
+Unit tests
+
+1. Positive test to check logger write ability. 
+2. Positive tests for logger stop with/without flush.
+3. Positive test for midnight log file creation.   

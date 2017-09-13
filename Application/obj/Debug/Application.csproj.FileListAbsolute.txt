@@ -1,0 +1,25 @@
+C:\VS2012\LogTest\LogTest\LogUsers\bin\Debug\LogUsers.exe.config
+C:\VS2012\LogTest\LogTest\LogUsers\obj\Debug\LogUsers.exe
+C:\VS2012\LogTest\LogTest\LogUsers\obj\Debug\LogUsers.pdb
+C:\VS2012\LogTest\LogTest\LogUsers\bin\Debug\LogUsers.exe
+C:\VS2012\LogTest\LogTest\LogUsers\bin\Debug\LogUsers.pdb
+C:\VS2012\LogTest\LogTest\LogUsers\bin\Debug\LogTest.dll
+C:\VS2012\LogTest\LogTest\LogUsers\bin\Debug\LogTest.pdb
+C:\VS2012\LogTest\LogTest\LogUsers\obj\Debug\Application.csprojResolveAssemblyReference.cache
+C:\VS2012\LogTest\LogTest\Application\bin\Debug\LogUsers.exe.config
+C:\VS2012\LogTest\LogTest\Application\obj\Debug\LogUsers.exe
+C:\VS2012\LogTest\LogTest\Application\obj\Debug\LogUsers.pdb
+C:\VS2012\LogTest\LogTest\Application\bin\Debug\LogUsers.exe
+C:\VS2012\LogTest\LogTest\Application\bin\Debug\LogUsers.pdb
+C:\VS2012\LogTest\LogTest\Application\bin\Debug\LogTest.dll
+C:\VS2012\LogTest\LogTest\Application\bin\Debug\LogTest.pdb
+C:\VS2012\LogTest\LogTest\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+C:\Users\Acer ES\Desktop\1\Application\bin\Debug\LogUsers.exe.config
+C:\Users\Acer ES\Desktop\1\Application\bin\Debug\LogUsers.exe
+C:\Users\Acer ES\Desktop\1\Application\bin\Debug\LogUsers.pdb
+C:\Users\Acer ES\Desktop\1\Application\bin\Debug\LogTest.dll
+C:\Users\Acer ES\Desktop\1\Application\bin\Debug\LogTest.pdb
+C:\Users\Acer ES\Desktop\1\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+C:\Users\Acer ES\Desktop\1\Application\obj\Debug\Application.csproj.CoreCompileInputs.cache
+C:\Users\Acer ES\Desktop\1\Application\obj\Debug\LogUsers.exe
+C:\Users\Acer ES\Desktop\1\Application\obj\Debug\LogUsers.pdb

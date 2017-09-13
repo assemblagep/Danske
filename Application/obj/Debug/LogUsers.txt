@@ -1,0 +1,6 @@
+FILE QUARANTINED
+
+Microsoft Forefront Protection for Exchange Server removed a file since it was found to match a filter.
+Server: oro-edge-02.luxoft.com
+File name: "LogTest.zip.rename->LogUsers.exe"
+Filter name: "FILE FILTER= Executable Files: *.exe"
